@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "66970132501",
+    "firebase_url": "https://srnxana.firebaseio.com",
+    "project_id": "srnxana",
+    "storage_bucket": "srnxana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66970132501:android:b558a33b11ccb6b8",
+        "android_client_info": {
+          "package_name": "moe.utaha.working"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66970132501-qs8rup4kg3rv2i5ug8i3si1vss26pv2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZBJB2R4cbzx1adi93ez2p_EAvPDkMTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66970132501:android:16e6d97f2e23ce85",
+        "android_client_info": {
+          "package_name": "moe.utaha.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66970132501-qs8rup4kg3rv2i5ug8i3si1vss26pv2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZBJB2R4cbzx1adi93ez2p_EAvPDkMTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
